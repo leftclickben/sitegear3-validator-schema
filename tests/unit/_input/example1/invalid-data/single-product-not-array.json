@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "name": "A blue mouse",
+    "price": 0,
+"the price": "should not be zero",
+    "dimensions": {
+        "length": 3.1,
+        "width": 1.0,
+        "height": 1.0
+    },
+    "warehouseLocation": {
+        "latitude": 54.4,
+        "longitude": -32.7
+    }
+}

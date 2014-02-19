@@ -1,0 +1,14 @@
+[
+    {
+        "id": "this shouldn't be a string",
+        "name": "An ice sculpture",
+        "price": 12.50,
+        "tags": ["cold", "ice"]
+    },
+    {
+        "id": 3,
+        "note": "name is missing",
+		"the price": "shouldn't be zero",
+        "price": 0
+    }
+]
