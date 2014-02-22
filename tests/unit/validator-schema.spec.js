@@ -8,7 +8,7 @@
 
 (function (_, jasmine, path, fs, schemaValidator) {
 	"use strict";
-	require('./setupTests');
+	require('../setupTests');
 
 	var inputRoot = path.join(__dirname, '_input'),
 		errorMessageRegex = /Received \d+ errors? from JSON schema validator: \[\[ [a-z0-9"',.\/\-_\+<>\$\s]* \]\](?:; \[\[ [a-z0-9"',.\/\-_\+<>\$] \]\])*/i;
